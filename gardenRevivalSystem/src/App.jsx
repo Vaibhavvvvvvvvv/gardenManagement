@@ -1,5 +1,5 @@
 import React from 'react';
-import DashBoard from './Component/DashBoard'; 
+import DashBoard from './DashBoard/DashBoard'; 
 const App = () => {
   return (
     <div>
